@@ -1,5 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-gatsby version:3.7.1
+
+![Gatsby 3.7.1](https://img.shields.io/badge/Gatsby-3.7.1-blueviolet)
 
 <p align="center">
   <a href="https://www.gatsbyjs.com">
