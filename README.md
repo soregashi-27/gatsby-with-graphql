@@ -2,6 +2,9 @@
 
 ![Gatsby 3.7.1](https://img.shields.io/badge/Gatsby-3.7.1-blueviolet)
 
+※Graph QLの基本的な単語説明あり。
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
