@@ -2,7 +2,7 @@
 
 ![Gatsby 3.7.1](https://img.shields.io/badge/Gatsby-3.7.1-blueviolet)
 
-※Graph QLの基本的な単語説明あり。
+[※Graph QLの基本的な単語説明あり。](https://bit.ly/3vvHYbR)
 
 
 <p align="center">
