@@ -44,3 +44,11 @@ export const pageQuery = graphql`
 `
 
 export default BlogPage
+
+// graph qlのexcerptって何者？
+/* 語源：（たくさんある中から）選んでつまみ取る
+ *
+ * text dataを抜粋する役割
+ *
+ *
+ */
