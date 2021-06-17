@@ -49,6 +49,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   })
 }
 
+// Pull request前にコメントは削除
+
 /**
  * 「Promiseを使った表示制御について」
  * エラーチェックの応答
@@ -58,8 +60,11 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
  *
  */
 
-// ここを書き換える時は、必ずterminalを止めてから再度スタートさせること
+// gatsby-node.jsを書き換える時は、必ずterminalを止めてから再度スタートさせること
 
-// htmlとIDを加えた理由は？
-
-// graph qlのexpertって何者？
+/** htmlとIDとは？
+ * html : text data
+ * ID : UniqueなdataのID
+ *
+ *
+ */
