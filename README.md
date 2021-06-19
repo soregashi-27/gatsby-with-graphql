@@ -4,6 +4,11 @@
 
 [※Graph QLの基本的な単語説明あり。](https://bit.ly/3vvHYbR)
 
+GatsbyのVersion確認
+```
+gatsby --version
+```
+
 
 <p align="center">
   <a href="https://www.gatsbyjs.com">
