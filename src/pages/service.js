@@ -1,4 +1,5 @@
 import React from "react"
+import Link from "gatsby-link"
 
 import Layout from "../components/layout"
 
@@ -24,6 +25,7 @@ const ServicePage = () => {
         occaecat cupidatat non proident, sunt in culpa qui officia deserunt
         mollit anim id est laborum.
       </p>
+      <Link to="/blog">Blog</Link>
     </Layout>
   )
 }
