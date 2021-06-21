@@ -9,6 +9,9 @@ GatsbyのVersion確認
 gatsby --version
 ```
 
+How gatsby works with github pages. \
+https://bit.ly/3iWPM3C
+
 
 <p align="center">
   <a href="https://www.gatsbyjs.com">
