@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
-![Gatsby 3.7.1](https://img.shields.io/badge/Gatsby-3.7.1-blueviolet)
+![Gatsby 3.7.1](https://img.shields.io/badge/Gatsby-3.7.1-blueviolet)  [![Netlify Status](https://api.netlify.com/api/v1/badges/8e3c1a4c-86dc-4c26-8e6e-5991fb775e54/deploy-status)](https://app.netlify.com/sites/gatsby-with-graphql/deploys)
 
 [※Graph QLの基本的な単語説明あり。](https://bit.ly/3vvHYbR)
 
